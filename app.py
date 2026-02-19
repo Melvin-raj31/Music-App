@@ -48,7 +48,7 @@ MUSICIANS = [
         "known_for": ["Purple Haze", "Voodoo Child", "Woodstock 1969"],
     },
     {
-        "name": "Johann Sebastian Bach",
+        "name": "Shrikanth",
         "emoji": "🎼",
         "genre": "Classical",
         "era": "1700s",
