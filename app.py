@@ -15,7 +15,7 @@ MUSICIANS = [
         "known_for": ["Bohemian Rhapsody", "We Will Rock You", "Live Aid 1985"],
     },
     {
-        "name": "Miles Davis",
+        "name": "Vignesh",
         "emoji": "🎺",
         "genre": "Jazz",
         "era": "1940s–90s",
@@ -26,7 +26,7 @@ MUSICIANS = [
         "known_for": ["Kind of Blue", "Bitches Brew", "Birth of the Cool"],
     },
     {
-        "name": "Aretha Franklin",
+        "name": "Jhanikiraman",
         "emoji": "👑",
         "genre": "Soul",
         "era": "1960s–2010s",
