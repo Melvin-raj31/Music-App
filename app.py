@@ -59,7 +59,7 @@ MUSICIANS = [
         "known_for": ["Brandenburg Concertos", "Goldberg Variations", "Mass in B Minor"],
     },
     {
-        "name": "David Bowie",
+        "name": "Suriya",
         "emoji": "⚡",
         "genre": "Rock",
         "era": "1970s–2010s",
@@ -70,7 +70,7 @@ MUSICIANS = [
         "known_for": ["Heroes", "Space Oddity", "Ziggy Stardust"],
     },
     {
-        "name": "Nina Simone",
+        "name": "Ranjith",
         "emoji": "🎹",
         "genre": "Jazz",
         "era": "1950s–90s",
