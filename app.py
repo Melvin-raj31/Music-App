@@ -4,10 +4,10 @@ app = Flask(__name__)
 
 MUSICIANS = [
     {
-        "name": "Freddie Mercury",
+        "name": "Melvin",
         "emoji": "🎤",
         "genre": "Rock",
-        "era": "1970s–90s",
+        "era": "1970s–2k",
         "born": "1946, Zanzibar",
         "instrument": "Vocals, Piano",
         "tagline": "The Greatest Showman of Rock",
