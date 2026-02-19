@@ -37,7 +37,7 @@ MUSICIANS = [
         "known_for": ["Respect", "Natural Woman", "Think"],
     },
     {
-        "name": "Jimi Hendrix",
+        "name": "Ashim",
         "emoji": "🎸",
         "genre": "Rock",
         "era": "1960s",
