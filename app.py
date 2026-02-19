@@ -70,7 +70,7 @@ MUSICIANS = [
         "known_for": ["Heroes", "Space Oddity", "Ziggy Stardust"],
     },
     {
-        "name": "Ranjith bhai",
+        "name": "Ranjith bhai vandaka ",
         "emoji": "🎹",
         "genre": "Jazz",
         "era": "1950s–90s",
