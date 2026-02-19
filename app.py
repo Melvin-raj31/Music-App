@@ -59,7 +59,7 @@ MUSICIANS = [
         "known_for": ["Brandenburg Concertos", "Goldberg Variations", "Mass in B Minor"],
     },
     {
-        "name": "Suriya",
+        "name": "Basic Suriya",
         "emoji": "⚡",
         "genre": "Rock",
         "era": "1970s–2010s",
@@ -70,7 +70,7 @@ MUSICIANS = [
         "known_for": ["Heroes", "Space Oddity", "Ziggy Stardust"],
     },
     {
-        "name": "Ranjith",
+        "name": "Ranjith bhai",
         "emoji": "🎹",
         "genre": "Jazz",
         "era": "1950s–90s",
