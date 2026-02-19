@@ -81,7 +81,7 @@ MUSICIANS = [
         "known_for": ["Feeling Good", "Strange Fruit", "I Put a Spell on You"],
     },
     {
-        "name": "Bob Marley",
+        "name": "Bob Marley Gowri",
         "emoji": "🌿",
         "genre": "Reggae",
         "era": "1970s",
