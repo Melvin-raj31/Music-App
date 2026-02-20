@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 MUSICIANS = [
     {
-        "name": "Melvin",
+        "name": "Melvin peter",
         "emoji": "🎤",
         "genre": "Rock",
         "era": "1970s–2k",
@@ -59,7 +59,7 @@ MUSICIANS = [
         "known_for": ["Brandenburg Concertos", "Goldberg Variations", "Mass in B Minor"],
     },
     {
-        "name": "Basic Suriya",
+        "name": "Suriya",
         "emoji": "⚡",
         "genre": "Rock",
         "era": "1970s–2010s",
@@ -70,7 +70,7 @@ MUSICIANS = [
         "known_for": ["Heroes", "Space Oddity", "Ziggy Stardust"],
     },
     {
-        "name": "Ranjith bhai vandaka ",
+        "name": "Ranjith bhai ",
         "emoji": "🎹",
         "genre": "Jazz",
         "era": "1950s–90s",
@@ -81,7 +81,7 @@ MUSICIANS = [
         "known_for": ["Feeling Good", "Strange Fruit", "I Put a Spell on You"],
     },
     {
-        "name": "Bob Marley Gowri",
+        "name": "Bob Marley",
         "emoji": "🌿",
         "genre": "Reggae",
         "era": "1970s",
