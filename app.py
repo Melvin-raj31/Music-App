@@ -92,7 +92,7 @@ MUSICIANS = [
         "known_for": ["No Woman No Cry", "One Love", "Redemption Song"],
     },
     {
-        "name": "Ella Fitzgerald",
+        "name": "John",
         "emoji": "🌸",
         "genre": "Jazz",
         "era": "1930s–90s",
